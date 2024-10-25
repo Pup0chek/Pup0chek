@@ -10,7 +10,7 @@
 
 Кроме того, у меня есть опыт парсинга с использованием requests, BeautifulSoup4 и Selenium, а также создания Telegram-ботов с помощью PyTelegrambotApi и написания скриптов для автоматизации.
 
-Я также являюсь junior pentester-ом и имею опыт в прос=ведении аудитов безопасности веб-приложения, WiFi и внешнего периметра заказчиков. Мой опыт включает в себя работу я такими инструментами как Burp Suite, Metasploit, nikto, nmap, nuclei, sqlmap, xsstrike, dirsearch, gobuster, wpscan, hydra и т.д. Я активно прохожу курсы и решаю лаборатории на платформах PortSwigger, HackTheBox и TryHackMe.
+Я также являюсь junior pentester-ом и имею опыт в проведении аудитов безопасности веб-приложений, WiFi и внешнего периметра заказчиков. Мой опыт включает в себя работу я такими инструментами как Burp Suite, Metasploit, nikto, nmap, nuclei, sqlmap, xsstrike, dirsearch, gobuster, wpscan, hydra и т.д. Я активно прохожу курсы и решаю лаборатории на платформах PortSwigger, HackTheBox и TryHackMe.
 
 <br>
 
