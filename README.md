@@ -1,7 +1,7 @@
 <h1 align="center"><b>Привет! Я Мартынова Лия </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&random=false&width=500&lines=.....10%...........35%.................76%...........100%............." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&random=false&width=500&lines=....love..to....create....smth....interesting........" alt="Typing SVG" /></a>
 <!--  -->
 </p>
 <h1 align="center"></h1>
