@@ -1,4 +1,4 @@
-<h1 align="center"><b>Привет! Я Мартынова Лия</b><br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&align='center'&size=20&duration=2500&color=5733ff&lines= 
+<h1 align="center"><b>Привет! Я Мартынова Лия</b><br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&align=center&size=20&duration=2500&color=5733ff&lines= 
 Pentest++%26+Development+;Always+Learning+and+Exploring;Creating+Something+Interesting!" alt="Typing SVG" /></a> </p>
 
 # 👩‍💻 О себе
