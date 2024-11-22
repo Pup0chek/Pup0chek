@@ -1,5 +1,5 @@
 <h1 align="center"><b>Привет! Я Мартынова Лия</b><br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=5733ff&lines= 
-Pentest++%26+Development+;Always+Learning+and+Exploring;Creating+Something+Interesting!" alt="Typing SVG" /></a> </p>
+Pentest+%26+Development+;Always+Learning+and+Exploring;Creating+Something+Interesting!" alt="Typing SVG" /></a> </p>
 
 # 👩‍💻 О себе
 Меня зовут Лия Мартынова, и я увлечена разработкой, автоматизацией и кибербезопасностью! Мой опыт охватывает разработку backend-сервисов с использованием FastAPI, работу с базами данных (SQLite, MySQL, PostgreSQL), а также парсинг данных с помощью requests, BeautifulSoup4 и Selenium. Также я создаю Telegram-ботов с использованием PyTelegramBotAPI и пишу скрипты для автоматизации задач.
