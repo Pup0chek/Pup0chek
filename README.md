@@ -11,20 +11,11 @@
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />	<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
 
 ## ⚙️ Фреймворки и библиотеки
-<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">	
-<img title="Django ORM" alt="Django ORM" width="40px" src="https://img.icons8.com/color/48/000000/django.png">
-<img title="Django REST framework" alt="Django REST framework" width="40px" src="https://img.icons8.com/color/48/000000/django-rest-framework.png">
-<img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/color/48/000000/flask.png">
-<img title="Celery" alt="Celery" width="40px" src="https://img.icons8.com/color/48/000000/celery.png">
-<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://img.icons8.com/color/48/000000/apache-kafka.png">
-<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">	<img title="Django ORM" alt="Django ORM" width="40px" src="https://img.icons8.com/color/48/000000/django.png"> <img title="Django REST framework" alt="Django REST framework" width="40px" src="https://img.icons8.com/color/48/000000/django-rest-framework.png"> <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/color/48/000000/flask.png"> <img title="Celery" alt="Celery" width="40px" src="https://img.icons8.com/color/48/000000/celery.png"> <img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://img.icons8.com/color/48/000000/apache-kafka.png"> <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 
 ## 🗄️ Базы данных
-<img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png">	
-<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">	
-<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
-<img title="Redis" alt="Redis" width="40px" src="https://img.icons8.com/color/48/000000/redis.png">
+<img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png">	<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">	<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> <img title="Redis" alt="Redis" width="40px" src="https://img.icons8.com/color/48/000000/redis.png">
 
 
 ## 🛠️ Инструменты
