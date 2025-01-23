@@ -11,7 +11,7 @@
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />	<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
 
 ## ⚙️ Фреймворки и библиотеки
-<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">	<img title="Django ORM" alt="Django ORM" width="40px" src="https://img.icons8.com/color/48/000000/django.png"> <img title="Django REST framework" alt="Django REST framework" width="40px" src="https://img.icons8.com/color/48/000000/django-rest-framework.png"> <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/color/48/000000/flask.png"> <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"> <img title="Celery" alt="Celery" width="40px" src="https://img.icons8.com/color/48/000000/celery.png"> 
+<img title="FastAPI" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">	<img title="Django ORM" alt="Django ORM" width="40px" src="https://img.icons8.com/color/48/000000/django.png">  <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/color/48/000000/flask.png"> <img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"> <img title="Celery" alt="Celery" width="40px" src="https://img.icons8.com/color/48/000000/celery.png"> 
 
 
 
